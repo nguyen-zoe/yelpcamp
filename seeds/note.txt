@@ -1,0 +1,4 @@
+WE use this seeds folder. It has nothing to do with our main app.
+when we want to see our database, we call this index.js run it as node. 
+It deletes everything in our database and replace everything with new campground
+
